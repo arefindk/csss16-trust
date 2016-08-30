@@ -25,7 +25,6 @@
 *.pdf
 *.Rdata
 *.dat
-*.eps
 *.png
 *.pyc
 
